@@ -57,10 +57,12 @@ img#terço{
 .rs{
     border: 2px solid black;
     margin-left : 220px;
-    margin-right: 220px;    
+    margin-right: 100px;    
     display: flex;
     padding: 10px;
     background-color: gray;
+    margin: auto;
+    
 }
 h2#xd{
     color: rgb(95, 79, 238);
