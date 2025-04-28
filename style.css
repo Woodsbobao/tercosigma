@@ -10,6 +10,7 @@ main{
     border-radius: 10px;
     margin: 50px;
     box-shadow: 2px 2px 5px black;
+    margin: auto;
 }
 body{
     background-image: url(imhg/images.jpg);
