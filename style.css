@@ -1,0 +1,77 @@
+@metacharset "UTF-8";
+
+img{
+    width: 200px;
+    height: 200px;
+
+}
+main{
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 50px;
+    box-shadow: 2px 2px 5px black;
+}
+body{
+    background-image: url(imhg/images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+img{
+    height: 70px;
+    width: 70px;
+
+}
+header{
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 50px;
+    box-shadow: 2px 2px 5px black;
+    text-align: center;
+
+}
+h1{
+    color: rgb(79, 170, 230);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    color: rgb(95, 79, 238);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+img#terço{
+    width: 400px;
+    height: 910px;
+    margin-right: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 40px;
+    float: left;
+
+}
+.rs{
+    border: 2px solid black;
+    margin-left : 220px;
+    margin-right: 220px;    
+    display: flex;
+    padding: 10px;
+    background-color: gray;
+}
+h2#xd{
+    color: rgb(95, 79, 238);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+p{
+    padding: 10px;
+    margin-left: 10px;    
+    font-family: ;
+}
